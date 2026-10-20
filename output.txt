@@ -1,0 +1,6 @@
+troy, 33, Male
+
+Minor: 0
+Youth: 0
+Adult: 1
+Senior: 0
